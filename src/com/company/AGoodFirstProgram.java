@@ -4,7 +4,7 @@ package com.company;
  * Created by mbova on 9/11/2016.
  */
 
-public class GreatFirstProgram
+public class AGoodFirstProgram
 {
 	public static void main (String[] args)
 	{

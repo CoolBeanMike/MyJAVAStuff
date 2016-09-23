@@ -1,4 +1,4 @@
-package com.company;
+package Basics;
 
 /**
  * Created by mbova on 9/11/2016.

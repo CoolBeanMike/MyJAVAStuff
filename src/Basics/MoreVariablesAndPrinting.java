@@ -1,4 +1,4 @@
-package com.company;
+package Basics;
 
 import static java.lang.Math.round;
 

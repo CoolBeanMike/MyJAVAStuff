@@ -1,4 +1,4 @@
-package com.company;
+package Basics;
 
 public class my_first_java_script
 {

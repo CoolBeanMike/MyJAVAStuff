@@ -1,4 +1,4 @@
-package com.company;
+package Variables;
 
 /**
  * Created by mbova on 9/17/2016.

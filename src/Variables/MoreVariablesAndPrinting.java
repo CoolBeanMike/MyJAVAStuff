@@ -1,4 +1,4 @@
-package Basics;
+package Variables;
 
 import static java.lang.Math.round;
 
